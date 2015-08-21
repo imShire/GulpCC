@@ -1,0 +1,15 @@
+{
+    "project" : "十二衣手机版",     
+    "projectEn" : "shieryi",     
+    "localserver" : {
+        "host" : "localhost",
+        "port" : "56789"
+    },
+    "ftp" : {
+        "host" : "ku.janecc.com",
+        "user" : "JaneCCku",
+        "port" : "21",
+        "pass" : "JaneCCku",
+        "remotePath" : "/web/"
+    }
+}   
